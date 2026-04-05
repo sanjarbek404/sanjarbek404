@@ -18,4 +18,4 @@
 - 🛒 Furniture Store Website
 
 ## 📫 Contact
-- Telegram: @username
+- Telegram: @sanjarbek_404
