@@ -1,0 +1,1 @@
+[![GitHub Trophies](https://ais-dev-fms7eayieeb5haiyvodd24-593841835743.asia-southeast1.run.app/api/trophy?username=sanjarbek404&theme=dark)](https://github.com/sanjarbek404)
