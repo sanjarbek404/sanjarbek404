@@ -55,8 +55,8 @@
   <li>🌐 <b>Web:</b> HTML, CSS, JavaScript, Tailwind, Git & GitHub</li>
   <li>🚀 <b>Always learning</b> and sharing knowledge</li>
   <li>🏆 <b>Achievements:</b> <a href="https://github.com/sanjarbek404?tab=achievements">GitHub Achievements</a></li>
-  <li>📫 <b>Contact:</b> <a href="mailto:sanjarbek404@gmail.com">sanjarbek404@gmail.com</a></li>
-  <li>🌍 <b>Portfolio:</b> <a href="https://sanjarbek404.github.io">sanjarbek404.github.io</a></li>
+  <li>📫 <b>Contact:</b> <a href="mailto:sanjarbekotabekov010@gmail.com">sanjarbekotabekov010@gmail.com</a></li>
+  <li>🌍 <b>Portfolio:</b> <a href="https://sanjarme.uz">sanjarme.uz</a></li>
 </ul>
 
 <details>
